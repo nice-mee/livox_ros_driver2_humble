@@ -1,4 +1,6 @@
-# Livox ROS Driver 2
+**Note**: The original Livox ROS Driver 2 is designed to accommodate both ROS1 and ROS2, but this create problems when trying to integrate the driver into a ROS2 workspace. This repository is intended to bring a minimal change to the original repository while making it easy to be integrated in ROS2 (Humble).
+
+# Livox ROS Driver 2 Humble
 
 Livox ROS Driver 2 is the 2nd-generation driver package used to connect LiDAR products produced by Livox, applicable for ROS (noetic recommended) and ROS2 (foxy or humble recommended).
 
